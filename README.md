@@ -52,6 +52,8 @@ F2
 
 
 **Procedure**
+
+
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
@@ -79,13 +81,11 @@ Register Number:212224220051
 
 **RTL Schematic**
 
-Boolean function minimization f1
 
 
 ![image](https://github.com/user-attachments/assets/d29fb2b7-2145-4e51-b2cf-ef1fecd8aecf)
 
 
-Boolean function minimization f2
 
 
 ![image](https://github.com/user-attachments/assets/f3499a15-d06b-45e1-aada-e33f72efa522)
@@ -95,13 +95,11 @@ Boolean function minimization f2
 **Output Timing Waveform**
 
 
-Boolean function minimization f1
 
 
 ![image](https://github.com/user-attachments/assets/a23628cf-0448-4d96-a77f-e23301018956)
 
 
-Boolean function minimization f2
 
 
 ![image](https://github.com/user-attachments/assets/097e5681-851e-4a93-ad39-1ffc525187d5)
