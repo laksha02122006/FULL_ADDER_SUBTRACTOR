@@ -38,13 +38,13 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-F1
+
 
 
 ![image](https://github.com/user-attachments/assets/8eafb114-4ecd-44ea-bcea-cbe7e61f098f)
 
 
-F2
+
 
 
 ![image](https://github.com/user-attachments/assets/c4c3dbc9-8dda-4305-9386-86cfa1e4f270)
