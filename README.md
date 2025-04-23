@@ -38,18 +38,75 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-**Procedure**
+F1
 
-Write the detailed procedure here
+
+![image](https://github.com/user-attachments/assets/8eafb114-4ecd-44ea-bcea-cbe7e61f098f)
+
+
+F2
+
+
+![image](https://github.com/user-attachments/assets/c4c3dbc9-8dda-4305-9386-86cfa1e4f270)
+
+
+
+**Procedure**
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
+![Screenshot 2025-04-23 200323](https://github.com/user-attachments/assets/49913369-7f10-46bf-ac2f-ff67de9add0e)
+
+
+
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+
+
+Developed by: V.B.Laksha
+
+
+Register Number:212224220051
 
 **RTL Schematic**
 
+Boolean function minimization f1
+
+
+![image](https://github.com/user-attachments/assets/d29fb2b7-2145-4e51-b2cf-ef1fecd8aecf)
+
+
+Boolean function minimization f2
+
+
+![image](https://github.com/user-attachments/assets/f3499a15-d06b-45e1-aada-e33f72efa522)
+
+
+
 **Output Timing Waveform**
+
+
+Boolean function minimization f1
+
+
+![image](https://github.com/user-attachments/assets/a23628cf-0448-4d96-a77f-e23301018956)
+
+
+Boolean function minimization f2
+
+
+![image](https://github.com/user-attachments/assets/097e5681-851e-4a93-ad39-1ffc525187d5)
+
+
 
 **Result:**
 
